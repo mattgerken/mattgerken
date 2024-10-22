@@ -17,7 +17,7 @@
 
 ## About Me 👋
 
-I am a Senior Data Scientist with the [Innovation Team](https://innovate.dc.gov/) at the Office of the Chief Technology Officer (OCTO) within the Government of the District of Columbia. 
+I am a Senior Data Scientist with the Data Strategy Team at the Office of the Chief Technology Officer (OCTO) within the Government of the District of Columbia. I work with DC's Chief Data Officer.
 
 ## Projects 📓
 
