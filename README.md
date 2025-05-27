@@ -19,16 +19,17 @@
 
 I am a Senior Data Scientist with the Data Strategy Team at the Office of the Chief Technology Officer (OCTO) within the Government of the District of Columbia. I work with DC's Chief Data Officer.
 
-## Projects 📓
+## Featured Projects 📓
 
 - [Key Findings from Built Environment Data Tool](https://github.com/mattgerken/built-environment-summary) (9/19/2024)
 - [Built Environment Indicators Environment and Health - Interactive Map Tool](https://mattgerken.github.io/dc-built-environment-map-tool/) (6/6/2024)
 - [DC Low Income Housing Tax Credit (LIHTC) Portfolio Assessment](https://mattgerken.github.io/DC-LIHTC-Portfolio/) (2/14/2023)
 
 
-## Blog Posts :writing_hand:  
+## Knowledge Sharing :books:  
 
-- [What Makes D.C. Special? Gratitude Survey Reveals the Heart of the Nation's Capital](https://www.linkedin.com/pulse/what-makes-dc-special-gratitude-survey-reveals-heart-nations-gerken-sjlre/?trackingId=RX22oQZiSPO2al3DuT8G6g%3D%3D)
-- [Insights into a Corner of D.C.’s Affordable Housing Landscape](https://www.linkedin.com/pulse/insights-corner-dcs-affordable-housing-landscape-matthew-gerken/?trackingId=RX22oQZiSPO2al3DuT8G6g%3D%3D)
+- Data science guest lecturer at George Washington University
+- 10+ years tutoring mathematics, statistics, and programming in R/Stata
+- 20+ [research publications](https://www.urban.org/author/matthew-gerken) spanning affordable housing, homelessness, and community development policy research
 
 
